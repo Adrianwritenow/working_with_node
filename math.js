@@ -1,4 +1,7 @@
 const readline = require('readline');
+///BEFORE YOU INSTALL A PACKAGE
+//npm init: TO INITIALIZE THE ENVIORMENT
+//npm install -S (packagename)
 
 
 const rl = readline.createInterface({
